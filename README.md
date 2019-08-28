@@ -1,7 +1,7 @@
 # Ruby Arrays - Additional Practice
 
 > **Array** - An ordered series or arrangement.
-- _Oxford English Dictionary_
+> - _Oxford English Dictionary_
 
 This sections contains additional lessons and labs on arrays
 in Ruby. Topics in this section include:
