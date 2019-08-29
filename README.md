@@ -1,4 +1,4 @@
-# Ruby Arrays - Additional Practice
+# Ruby Arrays
 
 > **Array** - An ordered series or arrangement.
 > - _Oxford English Dictionary_
